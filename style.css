@@ -1,0 +1,82 @@
+body {
+  font-family: Times New Roman;
+  background-image: url(https://images.summitmedia-digital.com/esquiremagph/images/2020/04/28/old-manila-colorized-photos-2.jpg);
+  background-position:bottom center;
+  text-decoration-color: black;
+  
+}
+
+.header {
+  text-align: center;
+  padding: 20px;
+  background: #402E2A;
+  color: white;
+}
+
+#navbar ul {
+    text-align: center;
+  }
+
+  #navbar li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  #navbar li a{
+    background-color:whitesmoke;
+    color: darkred;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+  }
+
+  #navbar li a:hover{
+    background-color: black;
+    color: whitesmoke;
+    text-decoration: none;
+
+  }
+
+
+.container {
+  background-color: #684551;
+  padding: 10px;
+ box-shadow: 7px 7px 5px -1px rgba(0,0,0,0.75);
+}
+
+.container {
+  text-align: auto;
+}
+
+.container h1{
+    font-size: 3em;
+    margin-top: 0;
+    padding-top: 10px;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%; 
+}
+
+th {
+  height: 50px;
+  text-align: center
+}
+
+
+#footer {
+      background-color: black;
+      padding: 10px;
+}
+
+
+#footer p{
+      color: whitesmoke;
+      margin: 0;
+      text-align: center;
+    }
+
